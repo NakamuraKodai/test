@@ -1,4 +1,3 @@
-# テストリポジトリ
 require 'dxruby'
 
 Window.loop do
